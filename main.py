@@ -555,7 +555,7 @@ class tols_B7E_Vip:
         idx = '10000'
         os.system('clear')
         print(logo)
-        limit = 5000000
+        limit = 50000000000000000
         
         try:
             for n in range(limit):
